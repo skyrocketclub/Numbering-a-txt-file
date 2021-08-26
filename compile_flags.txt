@@ -1,0 +1,4 @@
+-IC:\Users\ugo\Documents\Part_Two\Editing_a_txt_file
+-std=c++17
+-target
+
